@@ -1,6 +1,4 @@
 # Amazon-clone
-   
-# Amazon Clone
 
 This is a front-end clone of the Amazon website built using HTML and CSS.  
 It is created for practicing layout design, styling, and building responsive UI elements.
